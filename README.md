@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edwinsn ( edwinswebsite-vapjt.ondigitalocean.app )
-- 👀 I’m interested in web develoment
+- 👀 I’m interested in web development and machine learning
 - 💞️ I’m looking to collaborate on animalcoords.com (for reporting and finding stray animals)
 - 📫 How to reach me: edwinsanchez750@gmail.com
 
